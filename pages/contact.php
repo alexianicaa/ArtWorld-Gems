@@ -134,7 +134,7 @@
             <div class="col-md-10">
                 <ul class="contact_details">
                     <li><p>Phone Number: <a href="tel:0777888999">0777888999</a></p></li>
-                    <li><p>Mail: <a href="mailto:alexia_nyk@yahoo.ro">alexia_nyk@yahoo.ro</a></p></li>
+                    <li><p>Mail: <a href="mailto:artworld-gems@yahoo.com">artworld-gems@yahoo.com</a></p></li>
                     <li><h2>Subscribe to Our Newsletter</h2></li>
                     <li>
                         <form method="POST" action="../inc/process_form.php">
